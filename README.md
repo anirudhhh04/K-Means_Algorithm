@@ -1,5 +1,9 @@
 ## PROJECT:
-This project implements the K-Means algorithm to segment customers based on their purchase history .The result provides insights into customers into distinct segments in the data analyse.
+This project implements the K-Means machine learning algorithm to segment customers based on their purchase history from a data set. The result provides insights into customers into distinct segments in the data analyse.
 
 ## Tools used:
-Python, Pandas, seaborn, Numpy, Matplotlib.
+- Python
+- Pandas
+- Seaborn
+- Numpy
+- Matplotlib
